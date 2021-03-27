@@ -8,13 +8,19 @@ Given trends in student's math and reading scores, as well as various informatio
 
 The size of the school seems to have an adverse effect on number of passing scores.  The % passing across math, reading, and overall tended to be worse at schools larger in size, with a notable exception in the top five performing schools.  It appears that the larger schools also spent more per student.
 
+- - -
+
 ![schoolSpend](PyCitySchools/images/04_school_spending.JPG)
 
 Spending more money did not equate to more passing student scores; in fact, the top schools spent less per student than the bottom performing schools.
 
+- - -
+
 ![charterDistrict](PyCitySchools/images/01a_charter_v_district.JPG)
 
 The top schools were all charter schools, while the bottom schools were all district schools.
+ 
+- - -
 
 ![topFive](PyCitySchools/images/01_top5_schools.JPG)
 
